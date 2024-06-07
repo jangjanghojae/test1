@@ -1,1 +1,2 @@
 C:\Users\Administrator\Desktop\대학\git\test1
+https://github.com/jangjanghojae/test1.git
